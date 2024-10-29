@@ -1,7 +1,7 @@
 # Security Audit Report for Botium Toys
 
 **Audit Date**: [Insert Date]  
-**Auditor**: Eyole Baldwin  
+**Auditor**: Kome Epule Clarence Baldwin Anye
 **Prepared For**: Botium Toys  
 
 ---
